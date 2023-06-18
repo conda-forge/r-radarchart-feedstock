@@ -1,11 +1,11 @@
-About r-radarchart
-==================
+About r-radarchart-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-radarchart-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/mangothecat/radarchart
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-radarchart-feedstock/blob/main/LICENSE.txt)
 
 Summary: Create interactive radar charts using the 'Chart.js' 'JavaScript' library and the 'htmlwidgets' package. 'Chart.js' <http://www.chartjs.org/> is a lightweight library that supports several types of simple chart using the 'HTML5' canvas element. This package provides an R interface specifically to the radar chart, sometimes called a spider chart, for visualising multivariate data.
 
